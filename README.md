@@ -1,4 +1,4 @@
-# Primary care medicacl services 
+# Primary care medical services 
 
 This is a web based application developed for Primary care medical services.
 
