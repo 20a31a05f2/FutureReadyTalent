@@ -6,7 +6,7 @@ This is a web based application developed for Primary care medical services.
 
 
 Project Link - https://ambitious-wave-0a9961700.3.azurestaticapps.net
-Project demo video link - https://youtu.be/FOv-Bm352N8
+Project demo video link - https://youtu.be/fKrcc37yopQ
 
 ## Azure Technologies used for Project
 
